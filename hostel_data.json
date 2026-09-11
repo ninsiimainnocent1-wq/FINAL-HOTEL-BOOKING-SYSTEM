@@ -1,0 +1,54 @@
+{
+  "students": {
+    "M23B13/001": {
+      "name": "John Doe",
+      "course": "Bachelors in Information Technology",
+      "contact": "0766593537",
+      "block": "Block A - Nsibirwa",
+      "room": "A01",
+      "fees_paid": 500000,
+      "fees_balance": 1000000
+    },
+    "M23B13/002": {
+      "name": "Jane Smith",
+      "course": "BIT",
+      "contact": "0747147417",
+      "block": "Block A - Nsibirwa",
+      "room": "A02",
+      "fees_paid": 500000,
+      "fees_balance": 1000000
+    },
+    "M23B13/003": {
+      "name": "Ali Mohammed",
+      "course": "BCS",
+      "contact": "075745637",
+      "block": "Block A - Nsibirwa",
+      "room": "A03",
+      "fees_paid": 0,
+      "fees_balance": 1500000
+    },
+    "M23B13/004": {
+      "name": "Shakira Matovu",
+      "course": "BCS",
+      "contact": "0798645323",
+      "block": "Block A - Nsibirwa",
+      "room": "A04",
+      "fees_paid": 0,
+      "fees_balance": 1500000
+    }
+  },
+  "rooms": {
+    "A01": [
+      "M23B13/001"
+    ],
+    "A02": [
+      "M23B13/002"
+    ],
+    "A03": [
+      "M23B13/003"
+    ],
+    "A04": [
+      "M23B13/004"
+    ]
+  }
+}
